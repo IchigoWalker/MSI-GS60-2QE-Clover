@@ -1,12 +1,11 @@
 My CLOVER config/drivers/dsdt patches for MSI GS60 2QE
 ========
 
-This repo containg all the drivers, patches and configs that needed for successful Hackintosh run on this laptop.
+This repo containg all the drivers, patches and configs that needed for successful Hackintosh run on this laptop. Use Legacy or mixed boot to make HD5600 work properly.
 
 #### Not working
 - Sleep
 - DisplayPort
-- 
 
 #### AppleALC
 My AppleALC layouts can be found [here](https://github.com/IchigoWalker/AppleALC-for-MSI-GS60-2QE)
